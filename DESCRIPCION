@@ -1,0 +1,11 @@
+Proyecto de APIRest
+Descripcion: Este es un proyecto basico de APIRest, en el cual se pueden crear usuarios, modificarlos, buscarlos y eliminarlos. 
+
+Es el back de la API,lo probé usando POSTMAN.
+
+Lenguajes empleados:Java,SQL(JPA) y SpringBoot
+
+Autora:Fabiana Rossetto
+
+Contacto: https://www.linkedin.com/in/fabyrossetto/
+
